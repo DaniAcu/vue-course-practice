@@ -1,0 +1,59 @@
+{
+    "Cremas": [
+        "Crema chantilly",
+        "Crema flan",
+        "Arco iris",
+        "Crema del cielo",
+        "Crema a la reina",
+        "Crema italia",
+        "Frutilla a la crema",
+        "Banana a la crema",
+        "Bananita dolca",
+        "Higos al cognac",
+        "Cereza a la panna",
+        "Menta granizada",
+        "Coco",
+        "Almendrado",
+        "Banana split",
+        "Crema don pedro",
+        "Crema flan",
+        "Crema moka",
+        "Sambayon",
+        "Pistacho",
+        "Crema tramontana",
+        "Vainilla",
+        "Granizado",
+        "Mousse de maracuja",
+        "Crema de arandanos"
+    ],
+    "Dulces de leche": [
+        "Dulce de leche",
+        "Dulce de leche granizado",
+        "Dulce de leche con nuez",
+        "Dulce de leche tentacion",
+        "Dulce de leche marroc"
+    ],
+    "Chocolate": [
+        "Chocolate",
+        "Chocolate c/almendras",
+        "Chocolate con pasas",
+        "Chocolate suizo",
+        "Chocolate vittorio",
+        "Chocolate nevado",
+        "Chocolate amargo",
+        "Chocolate blanco"
+    ],
+    "Frutas al agua": [
+        "Frutilla al agua",
+        "Manzana",
+        "Melon",
+        "Anana",
+        "Limon",
+        "Limon con cereza",
+        "Limon con frutilla",
+        "Naranja",
+        "Durazno",
+        "Frutilla al agua",
+        "Frambuesa"
+    ]
+}
